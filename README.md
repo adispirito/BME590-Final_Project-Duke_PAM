@@ -39,4 +39,3 @@ https://drive.google.com/file/d/1ZzFE9X2xtd9cyceLBES-kO9YxJ0C08rV/view?usp=shari
 docker build --rm -t adispirito/duke_pam:2.3.1-gpu .
 docker run -it --rm --gpus all -u root -p 8888:8888 -v "${PWD}":/tf adispirito/duke_pam:2.3.1-gpu
 ```
-```
