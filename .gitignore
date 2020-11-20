@@ -1,0 +1,9 @@
+data*/
+LegacyFiles
+*saved_model*
+.ipynb_checkpoints
+__pycache__
+*.pyc
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*.ipynb
+figures*
