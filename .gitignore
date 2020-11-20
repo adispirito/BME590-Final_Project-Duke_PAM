@@ -1,6 +1,7 @@
 data*/
 LegacyFiles
 *saved_model*
+*trained_models*
 .ipynb_checkpoints
 __pycache__
 *.pyc
