@@ -7,6 +7,11 @@ In this repository we provide:
 - Code to train your own model using our input data pipeline in `ModelTraining.ipynb`
 - Code to show example images of the input data pipeline, downsampling methods, and model output results in `./examples`
 - Code containing some potential future work using modified U-net's or GANS in `./future_work`
+- Example results stored in `./figures`
+- Model definitions stored in `./models`
+- Helper functions stored in `./utils`
+- Docker image Jupyterlab Configuration stored in `./jupyter`
+- Docker image stored in `Dockerfile`
 
 ## Example outputs
 
